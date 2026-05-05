@@ -26,8 +26,26 @@ Final-year Computer Science student at Ho Chi Minh City University of Technology
 
 ---
 
+## Featured Projects
+
+**[WiFaKey](https://github.com/conghau2308/Authentication_Service)** — Biometric OAuth 2.1 & OIDC Server  
+An Authorization Server that replaces passwords with face biometric authentication. Features AES-256-GCM encrypted opaque tokens and token family-based reuse detection.  
+[Backend](https://github.com/conghau2308/Authentication_Service) · [Frontend](https://github.com/conghau2308/Auth_Developer_Portal) · [Live](https://auth-developer-portal.vercel.app)
+
+**[CS Compiler](https://github.com/conghau2308/Compiler_Online)** — Online Compiler for a C-like Language  
+A full 4-phase compiler (Lexer → Parser → Semantic Analysis → Java bytecode) for a custom C-like language with type inference. Includes a FastAPI backend and browser-based IDE with Monaco Editor.  
+[Backend](https://github.com/conghau2308/Compiler_Online) · [Frontend](https://github.com/conghau2308/frontend-compiler) · [Live Demo](https://frontend-compiler-beta.vercel.app)
+
+---
+
 ## GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=conghau2308&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=conghau2308&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=conghau2308&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats">
+</picture>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=conghau2308&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=conghau2308&layout=compact&theme=github_dark&hide_border=true&langs_count=8">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=conghau2308&layout=compact&theme=default&hide_border=true&langs_count=8" alt="Top Languages">
+</picture>

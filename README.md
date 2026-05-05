@@ -40,6 +40,6 @@ A full 4-phase compiler (Lexer → Parser → Semantic Analysis → Java bytecod
 
 ## GitHub Stats
 
-![Stats](https://your-vercel-domain.vercel.app/api?username=conghau2308&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
+![Stats](https://github-readme-stats-sigma-eight-69.vercel.app/api?username=conghau2308&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
 
-![Top Languages](https://your-vercel-domain.vercel.app/api/top-langs/?username=conghau2308&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
+![Top Languages](https://github-readme-stats-sigma-eight-69.vercel.app/api/top-langs/?username=conghau2308&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
